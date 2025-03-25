@@ -1,0 +1,10 @@
+# Ignorar entornos virtuales
+venv/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Ignorar configuraciones del sistema
+*.docx
+*.log
+__pycache__/
